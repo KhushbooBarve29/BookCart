@@ -6,7 +6,7 @@ Book Cart app in SwiftUI.
 
 This article shows how to create a simple **BookCart** app in SwiftUI.
 The main features are:
-- Categorized by genre, author, and name of the book.
+- Detailed with book image, author and name of the book.
 - Core logic, viewModel, and views are structured for reusability.
 - Fetches book details via an HTTP request to public API.
 - Presents the Book image along with detailed descriptions.

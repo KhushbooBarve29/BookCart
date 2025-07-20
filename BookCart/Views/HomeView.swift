@@ -72,14 +72,6 @@ struct HomeView: View {
                                                     RoundedRectangle(cornerRadius: 8)
                                                         .stroke(Color.blue.opacity(0.5), lineWidth: 2)
                                                 )
-                                                
-                                                Text(book.title)
-                                                    .font(.caption)
-                                                    .lineLimit(1)
-                                                
-                                                Text(book.authorName)
-                                                    .font(.caption2)
-                                                    .foregroundColor(.gray)
                                             }
                                             .frame(width: 100)
                                         }

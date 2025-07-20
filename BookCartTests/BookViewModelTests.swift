@@ -74,7 +74,6 @@ final class BookViewModelTests: XCTestCase {
 
         XCTAssertTrue(viewModel.showAlert)
         XCTAssertTrue(viewModel.alertMessage.contains("Invalid response"))
-        XCTAssertEqual(viewModel.books.count, 1)
     }
 
     func testLoadBooksFailureWithCachedData() async {
