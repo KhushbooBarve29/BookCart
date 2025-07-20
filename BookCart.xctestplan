@@ -1,0 +1,35 @@
+{
+  "configurations" : [
+    {
+      "id" : "32DEC9A1-FA19-4113-955B-F064E23B9B3D",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:BookCart.xcodeproj",
+      "identifier" : "BDA8A6082E298CE600024041",
+      "name" : "BookCart"
+    }
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:BookCart.xcodeproj",
+        "identifier" : "BDA8A6182E298CE800024041",
+        "name" : "BookCartTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:BookCart.xcodeproj",
+        "identifier" : "BDA8A6222E298CE800024041",
+        "name" : "BookCartUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  BookCart
+
+  Created by Khushboo Barve on 20/07/2025.
+  
+*/
+
+
+//Detail View
+"ui.detail.view.title.header" = "Book Detail";
+"ui.detail.view.error.alert.title" = "Error";
+"ui.detail.view.error.alert.message" = "Something went wrong.";
+"ui.detail.view.error.alert.button" = "OK";
+
+//Home View
+"ui.home.view.title" = "Home";
+"ui.home.view.sub.title" = "Sci-fi Books";
+"ui.home.view.error.alert.title" = "Notice";
