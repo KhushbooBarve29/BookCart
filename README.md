@@ -1,3 +1,6 @@
+<img width="740" height="1538" alt="image" src="https://github.com/user-attachments/assets/0e0754a4-58de-4df4-9e23-e411048472bf" />
+<img width="758" height="1574" alt="image" src="https://github.com/user-attachments/assets/dc7a1985-d75d-4ac0-8d77-edf203b6f428" />
+
 #  BookCart
 
 Book Cart app in SwiftUI.
