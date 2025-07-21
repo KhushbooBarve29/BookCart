@@ -41,6 +41,7 @@ struct DetailView: View {
                             Text(book.title)
                                 .font(.title)
                                 .fontWeight(.bold)
+                                .multilineTextAlignment(.center)
                             
                             if !book.authorName.isEmpty {
                                 Text("by \(book.authorName)")
